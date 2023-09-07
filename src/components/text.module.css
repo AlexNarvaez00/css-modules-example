@@ -1,0 +1,5 @@
+.textCss {
+  @apply text-left text-base; 
+  @apply mb-4 text-neutral-600; 
+  @apply px-2 md:px-0;
+}

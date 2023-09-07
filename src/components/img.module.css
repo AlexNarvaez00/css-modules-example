@@ -1,0 +1,10 @@
+.figureCss {
+  @apply w-full p-2;
+  @apply overflow-hidden rounded-md ;
+  @apply border-2 text-neutral-600;
+}
+
+.imgCss {
+  @apply w-full object-cover;
+  @apply rounded-md;
+}

@@ -1,0 +1,7 @@
+.liCss {
+  @apply hover:bg-neutral-100;
+  @apply hover:border-l-2;
+  @apply px-3 py-2;
+  @apply md:p-2;
+  @apply text-neutral-600;
+}

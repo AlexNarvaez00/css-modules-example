@@ -1,0 +1,4 @@
+.h1Css {
+  @apply text-center text-5xl;
+  @apply my-8 text-neutral-700;
+}

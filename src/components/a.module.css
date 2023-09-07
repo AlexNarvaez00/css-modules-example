@@ -1,0 +1,5 @@
+.aCss {
+  @apply hover:bg-black hover:text-white;
+  @apply underline italic;
+  @apply text-neutral-600 font-semibold;
+}
